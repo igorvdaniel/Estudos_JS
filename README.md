@@ -1,7 +1,7 @@
 # WhishLoveList
 Repositório dedicado a praticar javascript criando uma página de wishlist de presentes para namorados.
 
-![Logo WhishLoveList](assets/images/logo.png)
+<img src="assets/images/logo.png" alt="Logo" title="Logo WhishLoveList" width="200px" align="center"/>
 
 ## Descrição
 O objetivo é que os usuários possam adicionar presentes a uma lista de desejos, para facilitar a escolha de presentes para o namorado(a), assim faciilitando datas como dia dos namorados e aniversários.
