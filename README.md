@@ -1,4 +1,4 @@
-# Estudos_JS
+# WhishLoveList
 Repositório dedicado a praticar javascript criando uma página de wishlist de presentes para namorados.
 
 ## Descrição
