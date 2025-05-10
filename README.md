@@ -1,4 +1,20 @@
 # WhishLoveList
+
+## Para rodar o projeto
+Clone o repositório com:
+$ git clone
+
+Instale o pacote **npm**, caso não o tenha:
+$ npm install
+
+Rode o projeto com:
+
+$ npm run dev
+
+Caso o navegador não abra automaticamente acesse o link:
+$ http://localhost:3000
+
+## Introdução
 Repositório dedicado a praticar javascript criando uma página de wishlist de presentes para namorados.
 
 ![Logo WhishLoveList](assets/images/logo.png)

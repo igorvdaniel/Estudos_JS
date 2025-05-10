@@ -1,0 +1,10 @@
+{
+  "name": "projeto_js",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "echo 'Servidor iniciado em http://localhost:3000' && http-server ./src -p 3000 -o"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
